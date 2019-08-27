@@ -1,2 +1,1 @@
-# wjwdestuff
-Random learning and experimenting
+Start over and try random learning and experimenting
